@@ -3,11 +3,11 @@ Simple terminal-based base converter written in C that converts integers from de
 
 
 ## How it works:
-Run the command "bconv" in your terminal to initialize the program and choose an option on menu:
-1. for decimal to binary
-2. for decimal to octal
-3. for decimal to hexadecimal
-4. to quit the program
+Run the command "bconv" in your terminal to start the program and select an option from the menu:
+1. Convert decimal to binary
+2. Convert decimal to octal
+3. Convert decimal to hexadecimal
+4. Quit the program
 
 ## Dependencies
 - git
